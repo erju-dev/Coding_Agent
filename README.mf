@@ -1,0 +1,3 @@
+Este repo se usara para pruebas con GitHub Coding Agent autonomo.
+Crearemos issue a partir de un agente y añadiremos codigo a partir de el.
+
