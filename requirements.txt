@@ -1,0 +1,4 @@
+# Minimal requirements for running and testing Python scripts
+pytest
+requests
+beautifulsoup4
